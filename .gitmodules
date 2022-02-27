@@ -1,0 +1,4 @@
+
+[submodule "Assets/External/CurrencyPocket"]
+	path = Assets/External/CurrencyPocket
+	url = https://github.com/Mtlcwtchr/CurrencyPocket.git
