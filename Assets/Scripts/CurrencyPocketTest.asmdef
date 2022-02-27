@@ -1,0 +1,16 @@
+{
+    "name": "CurrencyPocketTest",
+    "rootNamespace": "",
+    "references": [
+        "GUID:021e09caeb9a401d868211c770f1eed1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
